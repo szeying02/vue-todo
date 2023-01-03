@@ -15,7 +15,7 @@ A todo list app built with the Vue framework.
 
 ## Getting Started
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) and [Clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) your forked repo.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repo and [Clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) your forked repo.
 2. Open terminal and navigate to the directory contatining the cloned project. 
 3. To install dependencies, run:
 
