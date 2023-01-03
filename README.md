@@ -11,7 +11,7 @@ A todo list app built with the Vue framework.
 
 ## Screenshots
 
-![Vue-Todo](/screenshots/demo.png)?raw=true)
+![Vue-Todo](/screenshots/demo.png)
 
 ## Getting Started
 
